@@ -10,7 +10,6 @@ on:
       - main
 
 jobs:
-
   testing:
     name: Run Python Tests
     runs-on: ubuntu-latest
